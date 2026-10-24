@@ -4,6 +4,7 @@
 
 **Estado del repositorio en este documento:** anteproyecto y documentación de diseño en proceso; implementación pendiente de comprobar. Este README es la base oficial pública del proyecto y se completa con evidencia real conforme el equipo avance.
 
+Figma: https://www.figma.com/design/N7y8fdyioaiZ2sBEccnEeP/Rentora?node-id=0-1&t=KrqbS372XJWJE3BA-1
 ---
 
 ## Tabla de contenido
